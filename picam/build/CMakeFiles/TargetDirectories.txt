@@ -1,0 +1,3 @@
+/home/scorpio/picam/build/CMakeFiles/edit_cache.dir
+/home/scorpio/picam/build/CMakeFiles/rebuild_cache.dir
+/home/scorpio/picam/build/CMakeFiles/exec.dir

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/scorpio/catkin_ws/install/setup.sh
